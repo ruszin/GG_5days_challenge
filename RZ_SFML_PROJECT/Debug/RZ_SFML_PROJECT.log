@@ -1,0 +1,20 @@
+﻿  Source.cpp
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(118): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(207): warning C4244: инициализация: преобразование "sf::Int64" в "double", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(254): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(264): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(271): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(274): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(277): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(280): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(286): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(289): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(292): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(301): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(305): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(327): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(328): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(329): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+d:\sfml_test_proj\rz_sfml_project\rz_sfml_project\source.cpp(362): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  RZ_SFML_PROJECT.vcxproj -> D:\SFML_TEST_PROJ\RZ_SFML_PROJECT\Debug\RZ_SFML_PROJECT.exe
+  RZ_SFML_PROJECT.vcxproj -> D:\SFML_TEST_PROJ\RZ_SFML_PROJECT\Debug\RZ_SFML_PROJECT.pdb (Full PDB)
